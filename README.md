@@ -1,5 +1,5 @@
 <div>
-<img src="figs/eccv-navbar-logo.png" width="30%">
+<img src="figs/eccv-navbar-logo.png" width="20%">
 </div>
 
 # [ECCV 2024] ToC3D: Make Your ViT-based Multi-view 3D Detectors Faster via Token Compression
@@ -9,4 +9,11 @@
   <img src="figs/image.png" width="800"/>
 </div><br/>
 
-The code and the instructions will be released in a few weeks.
+<div align="center">
+  <img src="figs/main_results.png" width="800"/>
+</div><br/>
+
+
+# TODO
+- [] Release Paper
+- [] Release Code
