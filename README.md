@@ -15,5 +15,7 @@
 
 
 # TODO
-- [] Release Paper
-- [] Release Code
+
+- [ ] Release Paper
+- [ ] Release Code
+
