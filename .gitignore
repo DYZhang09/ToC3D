@@ -1,0 +1,27 @@
+**.swp**
+**__pycache__**
+
+EFT_Streampetr/
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/deployment.xml
+.idea/EFT_StreamPETR.iml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/modules.xml
+.idea/vcs.xml
+data/
+
+**work_dirs/**
+logs/
+k8s/
+work_dirs/
+*.pth
+test/
+token_vis/
+semantic_target_vis/
+*.jpg
+tradeoff_curve.py
+*vis/*
+*.zip
+
+# debug file
+*.log
