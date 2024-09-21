@@ -84,10 +84,10 @@ ckpts/
 **Note: the performance of trained models will be influenced by the environments and machines. So we provide our training logs and weights here.**
 | Model     | Logs | Weight|
 | ----------- | :-----------: | :-------: |
-| ToC3D_fast    | [ToC3D_fast.log](training_logs/ToC3D_fast.log)       |  TBD |
-| ToC3D_faster  | [ToC3D_faster.log](training_logs/ToC3D_faster.log)        | TBD |
-| ToC3D_fast (1600 resolution) | [ToC3D_fast_1600.log](training_logs/ToC3D_fast_1600.log) | TBD |
-| ToC3D_faster (1600 resolution) | [ToC3D_faster_1600.log](training_logs/ToC3D_faster_1600.log) | TBD |
+| ToC3D_fast    | [ToC3D_fast.log](training_logs/ToC3D_fast.log)       |  [OneDrive](https://1drv.ms/f/s!Ajd0iyiSnYweg4FnrHhsVMnD-pRcOg?e=YCipe0) |
+| ToC3D_faster  | [ToC3D_faster.log](training_logs/ToC3D_faster.log)        | [OneDrive](https://1drv.ms/f/s!Ajd0iyiSnYweg4FnrHhsVMnD-pRcOg?e=YCipe0) |
+| ToC3D_fast (1600 resolution) | [ToC3D_fast_1600.log](training_logs/ToC3D_fast_1600.log) | [OneDrive](https://1drv.ms/f/s!Ajd0iyiSnYweg4FnrHhsVMnD-pRcOg?e=YCipe0) |
+| ToC3D_faster (1600 resolution) | [ToC3D_faster_1600.log](training_logs/ToC3D_faster_1600.log) | [OneDrive](https://1drv.ms/f/s!Ajd0iyiSnYweg4FnrHhsVMnD-pRcOg?e=YCipe0) |
 
 ## 🚀 Inference
 The basic commands are the same as the [StreamPETR.](https://github.com/exiawsh/StreamPETR/blob/main/docs/training_inference.md)
@@ -196,7 +196,7 @@ For higher input resolution, run:
 - [X] Release Paper
 - [X] Release Code
 - [X] Release logs
-- [ ] Release weights
+- [X] Release weights
 
 ## ❛❛❞ Citation
 ```bibtex
